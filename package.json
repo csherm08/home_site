@@ -1,0 +1,22 @@
+{
+  "name": "light_switch",
+  "version": "1.0.0",
+  "description": "Simple REST API to communicate ON/OFF with light switch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csherm08/home_site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csherm08/home_site/issues"
+  },
+  "homepage": "https://github.com/csherm08/home_site#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
