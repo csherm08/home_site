@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/csherm08/home_site#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.16.3"
   }
 }
